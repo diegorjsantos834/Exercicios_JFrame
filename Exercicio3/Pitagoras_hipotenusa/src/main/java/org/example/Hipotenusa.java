@@ -21,7 +21,7 @@ public class Hipotenusa extends JFrame{
 
         //definindo os nome de cada variavel
 
-        titulo = new JLabel("Bhaskara");
+        titulo = new JLabel("Pitagoras");
         subtitulo = new JLabel("c² = a² + b²");
         numA = new JLabel("Valor de A: ");
         numB = new JLabel("Valor de B:");
